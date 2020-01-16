@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 10vw;
+  color: #ffffff;
+  padding-left: 7vw;
+  margin-bottom: 0;
+}
+
+h3 {
+  margin-top: 0;
+  padding-left: 7vw;
+  color: #ffffff;
+}
+
+section {
+  display: flex;
+  height: 101vh;
+}
